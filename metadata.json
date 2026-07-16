@@ -1,0 +1,6 @@
+{
+  "name": "Town Coffee",
+  "description": "Premium Cafe and Specialty Coffee House in Jaipur",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
