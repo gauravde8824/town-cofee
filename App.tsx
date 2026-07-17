@@ -3,13 +3,13 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Menu from './components/Menu';
-import Amenities from './components/Amenities';
-import Locations from './components/Locations';
-import Footer from './components/Footer';
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import About from "./About";
+import Amenities from "./Amenities";
+import Menu from "./Menu";
+import Locations from "./Locations";
+import Footer from "./Footer";
 
 export default function App() {
   return (
